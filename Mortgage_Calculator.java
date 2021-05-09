@@ -1,3 +1,6 @@
+#Edgar Barrera / Github: https://github.com/EdgarCastillo101/EdgarCastillo101
+# This was made for EDUCATIONAL PURPOSES ONLY
+
 import java.text.NumberFormat;
 import java.util.Scanner;
 
